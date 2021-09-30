@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng5giselle"
+    }
+  },
+  "defaultProject": "ng5giselle",
+  "cli": {
+    "analytics": "208e9cfd-217e-47e1-bee2-1eb2575bd5b0"
+  }
 }
